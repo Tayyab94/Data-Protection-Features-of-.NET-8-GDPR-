@@ -1,4 +1,6 @@
-﻿namespace DPF_NET8
+﻿using DPF_NET8.Helpers;
+
+namespace DPF_NET8
 {
     //public class Customer
     //{
@@ -9,7 +11,7 @@
     //    public Guid Id { get; set; }
     //}
 
-    public record Customer(string Name, string Email, DateOnly DateOfBirht)
+    public record Customer([SensitiveDataArrtibute] string Name, [PiiDataArrtibute]string Email, DateOnly DateOfBirht)
     {
         public Guid Id { get; } = Guid.NewGuid();
     }

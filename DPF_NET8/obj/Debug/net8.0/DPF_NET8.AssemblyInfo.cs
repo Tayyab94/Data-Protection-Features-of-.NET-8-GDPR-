@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DPF_NET8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc81c8ebb3eb9a7ffbf4e5074bad47fba3515b86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4648bf5031435bbbde0de6de4ef24c883944f4de")]
 [assembly: System.Reflection.AssemblyProductAttribute("DPF_NET8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DPF_NET8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

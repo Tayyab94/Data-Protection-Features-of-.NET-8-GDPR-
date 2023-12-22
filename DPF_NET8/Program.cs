@@ -14,8 +14,9 @@ builder.Logging.AddJsonConsole(op => op.JsonWriterOptions = new System.Text.Json
 builder.Logging.EnableRedaction();
 builder.Services.AddRedaction(s =>
 {
-    s.SetRedactor<ErasingRedactor>(new DataClassificationSet(DataTaxonomy.SensitiveData));
+    //s.SetRedactor<ErasingRedactor>(new DataClassificationSet(DataTaxonomy.SensitiveData));
 
+    s.SetRedactor<StarRedactor>(new DataClassificationSet(DataTaxonomy.SensitiveData));
   #pragma warning disable EXTEXP0002
     s.SetHmacRedactor(options =>
     {

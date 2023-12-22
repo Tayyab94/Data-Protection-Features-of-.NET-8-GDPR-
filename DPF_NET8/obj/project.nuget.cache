@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "oJdussxuO+4omNpKr62Kp1bH2DyyV+lvOC/M5l4HiIyJabuhP5KT97FIa7o2UQaAeF/eusYxK4y8ZZlWxOo1Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tayya\\Desktop\\DPF_NET8\\DPF_NET8\\DPF_NET8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.0\\microsoft.bcl.timeprovider.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.ambientmetadata.application\\8.0.0\\microsoft.extensions.ambientmetadata.application.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\8.0.0\\microsoft.extensions.compliance.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.autoactivation\\8.0.0\\microsoft.extensions.dependencyinjection.autoactivation.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.0\\microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.logging.configuration\\8.0.0\\microsoft.extensions.logging.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.0\\microsoft.extensions.objectpool.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.telemetry\\8.0.0\\microsoft.extensions.telemetry.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.extensions.telemetry.abstractions\\8.0.0\\microsoft.extensions.telemetry.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
